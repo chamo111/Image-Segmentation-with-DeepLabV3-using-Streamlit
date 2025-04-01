@@ -26,7 +26,7 @@ The app uses `torchvision.models.segmentation.deeplabv3_resnet50(pretrained=True
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chamo111/image-segmentation-streamlit.git
+   git clone https://github.com/chamo111/Image-Segmentation-with-DeepLabV3-using-Streamlit
    cd image-segmentation-streamlit
 
    
